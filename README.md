@@ -1,9 +1,10 @@
-# Snoozington Fog — Charm the Commuter
+# Mistwick Fog — Charm the Commuter
 
-A one-line weather forecast for a city that isn't: **Snoozington**, where the
-morning drizzle comes with fog so thick the bus stop has started charging
-rent. Written for the make.fun competition *Charm the Commuter: Forecast a
-City That Isn't* — a bored commuter at a rainy bus stop, one line, one smile.
+A one-line weather forecast for a city that isn't: **Mistwick**, where the
+morning fog is so thick the bus driver is asking passengers to shout when
+they see their stop. Written for the make.fun competition *Charm the
+Commuter: Forecast a City That Isn't* — a bored commuter at a rainy bus
+stop, one line, one smile.
 
 `main.ts` writes the forecast line, deterministically, to `/output/entry.txt`
 (or to a directory given as its first argument).
